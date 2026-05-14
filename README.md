@@ -2,7 +2,7 @@
 
 ## Project info
 
-***ACTUAL CODE FILES ARE index.php , style.css , cms_database.sql . PLZ REFER THEM ONLY , OTH FILES R FROM LOVEABLE***
+# ***DISCLAIMER: ACTUAL CODE FILES ARE index.php , style.css , cms_database.sql . PLZ REFER THEM ONLY , OTH FILES R FROM LOVEABLE***
 
 **URL**(sample ui only): https://lovable.dev/projects/2d9736fb-b6b4-4f92-81ac-ef746ddde774
 
